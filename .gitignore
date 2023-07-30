@@ -1,3 +1,9 @@
+# AW - Extra ignored files
+# (downloaded models)
+llama-2-7b-chat/
+tokenizer.model
+tokenizer_checklist.chk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
